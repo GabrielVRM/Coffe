@@ -18,17 +18,17 @@ depois das escolhas selecionadas, clique no icone do carrinho para ir ate a tela
 -> styled-componenets, cada component e pages, tem um arquivo style.ts onde ficam minhas estilizações especificas dos mesmos, 
 
 aprendizagens...
--> Zod
-  - validaçoes do meu formulario
--> context Api
-  - gerenciamneto de estados globais
--> Immer
-  ❓ 
--> react Hook Form
-  - hook de formulario do react, trazendo o conceito de formularios controlados e não controlados 
--> styled components
-  - estilização como components
--> react router dom
-  - rotas da minha aplicação 
+- Zod
+  -> validaçoes do meu formulario
+- context Api
+  -> gerenciamneto de estados globais
+- Immer
+  -> ❓ 
+- react Hook Form
+  -> hook de formulario do react, trazendo o conceito de formularios controlados e não controlados 
+-  styled components
+  -> estilização como components
+- react router dom
+  -> rotas da minha aplicação 
 
 
